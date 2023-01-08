@@ -1,0 +1,28 @@
+.follow-us{
+    
+    .social {
+        margin: 10px;
+    }
+    .follow,a{
+        display: flex;
+        text-decoration: none;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    a{
+        display: flex;
+    align-items: center;
+    width: 130px;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* border: 1px solid; */
+    background: #365677;
+    border-radius: 23px;
+    color: #fff;
+    cursor: pointer;
+    }
+    p{
+        margin-left: 8px;
+    }
+}

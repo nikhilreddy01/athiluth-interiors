@@ -1,0 +1,46 @@
+{
+    "Cards":[
+        {
+            "name":"Modular Kitchen",
+            "image":"kitchen.png",
+            "subImagesBaseUrl":"Kitchen",
+            "count":33
+        },
+        {
+            "name":"Bedroom",
+            "image":"bedroom.png",
+            "subImagesBaseUrl":"bedroom",
+            "count":25
+
+        },
+        {
+            "name":"Living Room",
+            "image":"livingroom.png",
+            "subImagesBaseUrl":"livingroom",
+            "count":53
+
+        },
+        {
+            "name":"Bathroom",
+            "image":"bathroom.png",
+            "subImagesBaseUrl":"washroom",
+            "count":10
+
+        },
+        {
+            "name":"Home Office",
+            "image":"office.png",
+            "subImagesBaseUrl":"officehome",
+            "count":11
+        },
+        {
+            "name":"Space Saving Furniture",
+            "image":"furniture.png",
+            "subImagesBaseUrl":"spacefurniture",
+            "count":12
+        }
+    ],
+    "partners":{
+        "count":10
+    }
+}
