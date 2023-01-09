@@ -35,7 +35,7 @@ const Dashboard = () => {
                 <div style={{position:"relative"}}>
                 <div style={{position:"absolute"}}>
                     <div  className="headers" style={{fontSize:"35px",color:"#fecc2a"}}>Bring home beautiful <b/>interiors that fit your dreams</div>
-                    <h3 className='header-text'>Experience unmatched quality & timely delivery <b/>with livespace</h3>
+                    <h3 className='header-text'>Experience unmatched quality & timely delivery <b/>with Athulith</h3>
                  </div>
                 <img src={require('../../assets/images/cover.png')} className='cover-image'/>
                  

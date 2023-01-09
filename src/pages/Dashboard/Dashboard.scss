@@ -76,9 +76,27 @@ marquee{
 
 }
 
-@media only screen and (max-width: 800px) and (min-width: 300px){
+@media only screen and (max-width: 900px) and (min-width: 300px){
     .cards{
     width : 90% !important;
+    }
+
+}
+@media only screen and (max-width: 1165px) and (min-width: 901px){
+    .cards{
+    width : 47% !important;
+    }
+
+}
+
+@media only screen and (max-width: 390px) and (min-width: 300px){
+    .dashboard-cards{
+        img{
+    width : 90% !important;
+        }
+    }
+    .p-carousel .p-carousel-content .p-carousel-prev, .p-carousel .p-carousel-content .p-carousel-next{
+        display:none
     }
 
 }

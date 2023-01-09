@@ -55,3 +55,13 @@ ul.p-carousel-indicators.p-reset {
     }
 
 }
+@media only screen and (max-width: 450px) and (min-width: 300px){
+    
+    .p-carousel .p-carousel-content .p-carousel-prev, .p-carousel .p-carousel-content .p-carousel-next{
+        display:none
+    }
+    .product-item{
+        width : 100% !important;
+        }
+
+}
