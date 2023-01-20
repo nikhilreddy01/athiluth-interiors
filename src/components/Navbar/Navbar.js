@@ -23,7 +23,7 @@ const Navbar =()=>{
                 <div className="call">
                   <img src={require(`../../assets/images/call.png`)}/>
                   <a href="tel:+91 9392153622">
-                +91 9392153622
+                    Call us
             </a></div>
                 {/* <div onClick={onContactUsClick}>Follow Us</div> */}
                 {/* <Contactus/> */}

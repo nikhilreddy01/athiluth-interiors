@@ -1,7 +1,8 @@
 {
   "name": "athuluth-interiors",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "http://nikhilreddy01.github.io/athiluth-interiors",
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
@@ -12,7 +13,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "fs": "0.0.1-security",
-    "gh-pages": "^4.0.0",
     "history": "^5.3.0",
     "primeicons": "^6.0.1",
     "primereact": "^8.7.3",
@@ -25,11 +25,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-
-    "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
+    "start": "react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -50,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
