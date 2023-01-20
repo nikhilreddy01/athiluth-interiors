@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/athiluth-interiors/static/css/main.cd01c3d8.css",
-    "main.js": "/athiluth-interiors/static/js/main.d7256df4.js",
+    "main.css": "/athiluth-interiors/static/css/main.10baf01f.css",
+    "main.js": "/athiluth-interiors/static/js/main.3d3ea3b1.js",
     "static/media/cover.png": "/athiluth-interiors/static/media/cover.62cc5c62ec915f60256c.png",
     "static/media/primeicons.svg": "/athiluth-interiors/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/16.png": "/athiluth-interiors/static/media/16.ee146bdad59a728ac73c.png",
@@ -71,11 +71,11 @@
     "static/media/logo.png": "/athiluth-interiors/static/media/logo.185c684d95ceb3097e2e.png",
     "static/media/logo.svg": "/athiluth-interiors/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/athiluth-interiors/index.html",
-    "main.cd01c3d8.css.map": "/athiluth-interiors/static/css/main.cd01c3d8.css.map",
-    "main.d7256df4.js.map": "/athiluth-interiors/static/js/main.d7256df4.js.map"
+    "main.10baf01f.css.map": "/athiluth-interiors/static/css/main.10baf01f.css.map",
+    "main.3d3ea3b1.js.map": "/athiluth-interiors/static/js/main.3d3ea3b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd01c3d8.css",
-    "static/js/main.d7256df4.js"
+    "static/css/main.10baf01f.css",
+    "static/js/main.3d3ea3b1.js"
   ]
 }
