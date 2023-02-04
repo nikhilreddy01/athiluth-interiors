@@ -61,6 +61,7 @@ const Roomtypepage = (props) => {
                     autoplayInterval={1500}
                     responsiveOptions={responsiveOptions}
                     itemTemplate={productTemplate} header={<h2>{selectedCard.subImagesBaseUrl.toUpperCase()}</h2>} />
+                    
             </div>
             <div className='image-cards'>
                 {imagesCount && imagesCount.map((item) => {

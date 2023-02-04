@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router history={history} basename='/athiluth-interiors'>
+      <Router history={history} basename='/'>
       <Navbar/>
       {/* <Dashboard/> */}
       <Routes>
