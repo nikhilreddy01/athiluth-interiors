@@ -19,28 +19,112 @@
             "subImagesBaseUrl":"livingroom",
             "count":53
 
-        },
-        {
-            "name":"Bathroom",
-            "image":"bathroom.png",
-            "subImagesBaseUrl":"washroom",
-            "count":10
-
-        },
-        {
-            "name":"Home Office",
-            "image":"office.png",
-            "subImagesBaseUrl":"officehome",
-            "count":11
-        },
-        {
-            "name":"Space Saving Furniture",
-            "image":"furniture.png",
-            "subImagesBaseUrl":"spacefurniture",
-            "count":12
         }
     ],
     "partners":{
-        "count":10
-    }
+        "count":9
+    },
+    "milestones":[
+        {
+            "label":"2018",
+            "value":"Athulith is founded by Rajesh and Praveen."
+        },
+        {
+            "label":"2019",
+            "value":"Started commercial and villas projects"
+        },
+        {
+            "label":"2020",
+            "value":"Athulith expands to a new location. Telagana, Andhra Pradesh"
+        },
+        {
+            "label":"2021",
+            "value":"Winner of the many clients heart and trust."
+        },
+        {
+            "label":"2022",
+            "value":"Great year with many premium projects with satisfied clients and builders."
+        }
+
+    ],
+    "faqs":[
+        {
+            "question":"What is the difference between an interior designing and an interior decoration?",
+            "answer":"Interior designing is the art of converting an empty building shell into a livable space by crafting different functional segments of a home in it. Interior decoration, on the other hand, is the end step of interior design that involves furnishing and accessorizing a space."
+              
+        },
+        {
+            "question":"What is a Residential Interior Designer?",
+            "answer":  "A Residential Interior Designer provides interior designing services for all forms of Residential spaces. At Athulith, we curate interiors for apartments, independent houses, independent villas as well as gated-community villas."
+               
+        },
+        {
+            "question":"What is end-to-end Interior Designing? ",
+            "answer":
+                "End-to-end interior design refers to the full suite of interior design services tailored to meet the specific client needs. It involves planning, designing, material selection, procurement, project execution, quality control, and the hand over as per the discussed norms."
+             
+        },
+        {
+            "question":"What services can I expect from an end-to-end interior designing company?",
+            "answer":
+               "An end-to-end interior designing company integrates all the home interiors related requirements in one place. The following are services they specialize in :"
+                ,
+                "listItem":[
+                     "Interior design conceptualization" ,
+                    "Interior design & decoration",
+                    "Interior space planning & furniture layouts",
+                    "Furniture design & selection",
+                    "Custom modular design & manufacturing",
+                    "New construction & remodel: Interior finish",
+                    "fixture & material selections and specifications",
+                    "Custom manufacturing designs",
+                    "Lighting plans & interior elevation drawings",
+                    
+                    "Fine art curating & accessories selection and styling Procurement", 
+                     "Production & complete installation "
+                ]
+
+             
+        },
+        {
+            "question":".What to look out for before settling on an interior designer?",
+            "answer":" Here’s an overview of the tips: ",
+            "listItem":[
+                "Ask to see their portfolio of interior designs ",
+                "Ask for a quote on your interior design projec Onboard"
+            ]
+        },
+        {
+            "question":"What is meant by a customized home interior solution?",
+            "answer":"A customized interior design solution refers to a design that is tailored specifically for your floor plan. It involves a clear understanding of your design vision and your family’s aspiration of home interiors."
+        }, {
+            "question":"How can I receive a customized interior design for my villa?",
+            "answer":"After discussing the parameters of your interior design project, we’ll put together a quote that outlines the details of the materials and elements including the price. It is a great way for both of us to ensure that the expectations are in line."
+        },
+        {
+            "question":"What is the time involved in getting my home interiors done?",
+            "answer":"Not every project takes the same amount of time. The project timeline depends on many factors including the size of the home, the client's desires, budget, and more. But, the average time taken to complete a project by Athulith is 45-60 days after contract signing."
+        },
+        {
+            "question":"Will my home look exactly the same as shown in designs?",
+            "answer":"Yes. The designs are a way of illustrating the final outcomes of your home. Our entire team of design and execution coordinate their efforts to deliver you exact home interiors as finalized in designs."
+        },
+        {
+            "question":"Can I visit an old project of yours?",
+            "answer":"Yes, there is a provision of visiting our projects. Although, we do provide the 3D design images and real images of completed projects so you can easily have a look at our work from the comfort of your own home."
+        },
+        {
+            "question":"What is the cost involved with home interiors?",
+            "answer":"The cost of home interiors is entirely depends on the design needs, customizations, and the material requirements of the home. You can be assured of competitive pricing of Decorpot and that is reflected in our quote."
+        },
+        {
+            "question":"Is our interior designing quote all-inclusive?",
+            "answer":"Yes, our interior designing quote is inclusive of designing, manufacturing, and installing costs. And receiving an estimation quote is absolutely free! Also, all the costs of the final quote are mentioned with prior information & discussion with the customer to prevent any ambiguity. "
+        },
+        {
+            "question":"Can a design quote be customized as per my budget?",
+            "answer":"Yes, providing customized solutions, we can work within your budget and maximize the impact of our design as per your interiors. The only key point is that your budget should fit the minimum design requirement and order value."
+        }
+
+    ]
 }

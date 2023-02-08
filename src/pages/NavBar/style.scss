@@ -1,0 +1,58 @@
+.fa-envelope:before {
+    content: "\f0e0";
+}
+
+
+
+.Navbars {
+    .p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-link:focus {
+      box-shadow: none !important;
+    }
+    .p-menubar {
+        font-size: 14px;
+        color: #000;
+        font-weight: 600;
+        background: #fff;
+        box-shadow: 1px 0 3px #222;
+    }
+    .contact-details-navbar {
+        background: #5a5959;
+        padding: 12px 0;
+        height: 48px;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+        .email-call {
+            margin-right: 40px;
+            color: #fff;
+            width:50%;
+            font-size: 12px;
+            .email {
+                margin-right:30px
+            }
+
+            .call {
+                img{
+                    width: 12px;
+                    margin-right: 8px;
+                }
+                a{
+                    color: #ffff;
+                    text-decoration: none;
+
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 615px) and (min-width: 417px){
+    .call,.email{
+        display: block;
+        text-align: left;
+        margin-top: 2px;
+    }
+
+}

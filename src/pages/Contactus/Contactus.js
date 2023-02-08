@@ -17,19 +17,16 @@ const Contactus = () => {
                 {/* <h3>Follow us on</h3> */}
             <a href="https://www.facebook.com/learnbuildteach/"
                 className="facebook social" target="_blank">
-                <FontAwesomeIcon icon={faFacebook} size="2x"  style={{color:"#4e83f1"}}/>
-                <p>facebook</p>
+                <FontAwesomeIcon icon={faFacebook} size="1x" />
             </a>
             <a href="https://wa.me/9392153622/"
                 className="whatsapp social" target="_blank">
-                <FontAwesomeIcon icon={faWhatsapp} size="2x"  style={{color:"#25d366"}}/>
-                <p>whatsapp</p>
+                <FontAwesomeIcon icon={faWhatsapp} size="1x"  />
 
             </a>
             <a href="https://instagram.com/athulithinteriors?igshid=YmMyMTA2M2Y="
                 className="instagram social" target="_blank">
-                <FontAwesomeIcon icon={faInstagram} size="2x" style={{color:"#c32aa3"}}/>
-                <p>instagram</p>
+                <FontAwesomeIcon icon={faInstagram} size="1x" />
 
             </a>
             </div>
