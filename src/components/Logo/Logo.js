@@ -10,10 +10,7 @@ const Logo =()=>{
     return(
         <div className="nav-bar">
           <div style={{display:"flex",alignItems:"center"}}>
-          <img src={require(`../../assets/images/logo.png`)} style={{width:"40px",height:"40px",marginLeft:"15px"}}/>
-            <div className="logo">
-              <div>Athulith</div>
-            </div>
+          <img src={require(`../../assets/images/logo.png`)} style={{height:"40px",marginLeft:"15px"}}/>
             </div>
            
             {/* <div className="about-us">

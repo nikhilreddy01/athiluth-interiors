@@ -11,7 +11,7 @@ import "./Contactus.scss";
 const Contactus = () => {
 
     return (
-        <div className='follow-us'>
+        <div className='follow-us' style={{marginRight:"25px"}}>
  
             <div className='follow' >
                 {/* <h3>Follow us on</h3> */}

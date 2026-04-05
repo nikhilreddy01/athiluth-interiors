@@ -14,7 +14,7 @@ const HomePage = () => {
             </div>
             <div>
                 <p>
-                Copyright ©  2023 Athulith. | All Rights Reserved
+                Copyright ©  2026 Athulith. | All Rights Reserved
                 </p>
             </div>
            </div>
